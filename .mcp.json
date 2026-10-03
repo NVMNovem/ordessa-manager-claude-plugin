@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ordessa-manager": {
+      "type": "http",
+      "url": "https://mcp.ordessa.org/manager"
+    }
+  }
+}

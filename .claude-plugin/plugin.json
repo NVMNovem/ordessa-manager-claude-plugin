@@ -1,0 +1,11 @@
+{
+  "name": "ordessa-manager",
+  "displayName": "Ordessa Manager",
+  "version": "1.0.0",
+  "description": "Read and edit your Ordessa pickup shop's catalogue from a conversation: products, sections, ingredients, option groups, prices and translations, as your own Ordessa account and within what your role allows.",
+  "author": {
+    "name": "Damian Van de Kauter",
+    "url": "https://www.ordessa.org"
+  },
+  "license": "MIT"
+}
